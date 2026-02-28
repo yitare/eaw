@@ -152,8 +152,8 @@
         "priority": 19
     },
     {
-        "id": "lezi",
-        "name": "乐子资源",
+        "id": "lzzy",
+        "name": "量子资源",
         "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
         "group": "normal",
         "enabled": true,
@@ -446,5 +446,13 @@
         "group": "normal",
         "enabled": true,
         "priority": 56
+    },
+    {
+        "id": "yzzy",
+        "name": "优质资源",
+        "baseUrl": "https://api.yzzy-api.com/inc/apijson.php",
+        "group": "normal",
+        "enabled": true,
+        "priority": 57
     }
 ]
